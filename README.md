@@ -1,5 +1,3 @@
-Markdown
-
 # RF-Docker Project
 
 단백질 구조 예측 및 설계를 위한 RFdiffusion, ProteinMPNN 등의 모델을 Docker 환경에서 실행하는 프로젝트입니다.
@@ -10,7 +8,7 @@ Markdown
 
 이 프로젝트를 실행하기 위해 필요한 환경을 Docker로 구축하고 실행하는 방법입니다. 서버에 NVIDIA 드라이버와 Docker가 설치되어 있어야 합니다.
 
-### 1. GitHub 레포지토리 클론
+### 1. GitHub
 
 터미널을 열고 아래 명령어를 실행하여 프로젝트 파일을 내려받습니다.
 
