@@ -1,0 +1,21 @@
+# 라이브러리 및 모델 폴더
+RFDiffusion/
+ProteinMPNN/
+ColabDesign/
+
+# 결과물, 휴지통, 데이터 폴더
+outputs/
+.Trash-0/
+my_data/
+params/
+
+# 특정 확장자 파일 제외
+*.pdb
+*.pt
+*.pkl
+*.csv
+
+# 기타
+rfdiffusion_log.txt
+__pycache__/
+*.ipynb_checkpoints
