@@ -4,7 +4,7 @@
 
 ---
 
-## ✅ 시작하기 (Getting Started)
+## 시작하기 (Getting Started)
 
 이 프로젝트를 실행하기 위해 필요한 환경을 Docker로 구축하고 실행하는 방법입니다. 서버에 NVIDIA 드라이버와 Docker가 설치되어 있어야 합니다.
 
